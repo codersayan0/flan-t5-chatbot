@@ -19,7 +19,7 @@ A simple yet powerful chatbot built using Google's FLAN-T5 model and Gradio. Thi
 
 ## 🖥️ Demo Preview
 
-![Demo Screenshot](https://github.com/codersayan0/flan-t5-chatbot/assets/flan-t5.png)  
+![Demo Screenshot](https://github.com/codersayan0/flan-t5-chatbot/blob/main/assets/flan-t5.png)  
 *(Replace with your own image or GIF)*
 
 ---
