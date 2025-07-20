@@ -1,4 +1,4 @@
-# 🧠 FLAN-T5 Chatbot
+# 🧠 FLAN-T5 Chatbot 
 
 A simple yet powerful chatbot built using Google's FLAN-T5 model and Gradio. This app allows you to ask natural language questions and get clear, concise answers. It also supports chat history and lets you download your conversation as a `.txt` file.
 
@@ -28,5 +28,5 @@ A simple yet powerful chatbot built using Google's FLAN-T5 model and Gradio. Thi
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/codersayan0/flan-t5-chatbot git
-cd flan-t5-chatbot-plus
+git clone https://github.com/codersayan0/flan-t5-chatbot.git
+cd flan-t5-chatbot
